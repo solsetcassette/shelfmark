@@ -58,7 +58,7 @@ Shelfmark is a unified web interface for searching and aggregating books and aud
 
 3. Open `http://localhost:8084`
 
-That's it! Configure settings through the web interface as needed.
+That's it! Configure settings via the web interface as needed.
 
 ### Volume Setup
 
